@@ -434,7 +434,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      $!Asylum_Door_Med_noframe_light_0: 4016592974978748110
+      $!Asylum_Door_Med_noframe_light_1: 4480787892124765676
+      $!Asylum_Door_Med_noframe_light_10: -8590359015338429093
+      $!Asylum_Door_Med_noframe_light_11: -4447562708407146650
+      $!Asylum_Door_Med_noframe_light_12: -5743887746435139873
+      $!Asylum_Door_Med_noframe_light_2: 4802750801889395158
+      $!Asylum_Door_Med_noframe_light_3: -2916545790269159508
+      $!Asylum_Door_Med_noframe_light_4: 5776253455667531098
+      $!Asylum_Door_Med_noframe_light_5: 847003679389480530
+      $!Asylum_Door_Med_noframe_light_6: 1615877711300510316
+      $!Asylum_Door_Med_noframe_light_7: -509763051283624261
+      $!Asylum_Door_Med_noframe_light_8: -2719619048334270347
+      $!Asylum_Door_Med_noframe_light_9: -7260989444159594624
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      $!sliding_bookshelf_door_light_0: 8775207018987038793
+      $!sliding_bookshelf_door_light_1: -6365588106685338210
+      $!sliding_bookshelf_door_light_2: -8014505822095509891
+      $!sliding_bookshelf_door_light_3: 58683964313811514
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

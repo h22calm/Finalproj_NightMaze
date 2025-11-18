@@ -459,7 +459,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hauntedhouse_A2_dark_0: 9064855869235201670
+      hauntedhouse_A2_dark_1: -3894931281989921435
+      hauntedhouse_A2_dark_10: 8805368869666311567
+      hauntedhouse_A2_dark_11: -4342067342376195128
+      hauntedhouse_A2_dark_12: 4031786204380176401
+      hauntedhouse_A2_dark_13: -705697736109321516
+      hauntedhouse_A2_dark_2: 70114566826172956
+      hauntedhouse_A2_dark_3: -6778062563991264081
+      hauntedhouse_A2_dark_4: -351456339717656087
+      hauntedhouse_A2_dark_5: -242575020452366756
+      hauntedhouse_A2_dark_6: 1618210240545603296
+      hauntedhouse_A2_dark_7: -6018780743000822173
+      hauntedhouse_A2_dark_8: 3154408629272194981
+      hauntedhouse_A2_dark_9: 5563947022991946849
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1609,7 +1609,67 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hauntedhouse_B_light_0: -2706654181540023112
+      hauntedhouse_B_light_1: -4520248258920298305
+      hauntedhouse_B_light_10: -8772420556255604237
+      hauntedhouse_B_light_11: -5706733304980634071
+      hauntedhouse_B_light_12: 7707685901664202983
+      hauntedhouse_B_light_13: 5597436207683020866
+      hauntedhouse_B_light_14: 2862087879159521471
+      hauntedhouse_B_light_15: -5288161123507004717
+      hauntedhouse_B_light_16: 3839839432204003025
+      hauntedhouse_B_light_17: 1511606423445016094
+      hauntedhouse_B_light_18: -3742936730377145055
+      hauntedhouse_B_light_19: -3497779655558253719
+      hauntedhouse_B_light_2: -6035378457624904864
+      hauntedhouse_B_light_20: -127748738924804620
+      hauntedhouse_B_light_21: 3161983254358005826
+      hauntedhouse_B_light_22: 1473507871666420521
+      hauntedhouse_B_light_23: -1436790428986437186
+      hauntedhouse_B_light_24: 3687332019563731278
+      hauntedhouse_B_light_25: 374726001906656211
+      hauntedhouse_B_light_26: 2621350849888766518
+      hauntedhouse_B_light_27: -4567857447447178324
+      hauntedhouse_B_light_28: 3945922395671803136
+      hauntedhouse_B_light_29: 8885166159165142842
+      hauntedhouse_B_light_3: 8901452562559520354
+      hauntedhouse_B_light_30: -9008292771976610046
+      hauntedhouse_B_light_31: 569509928999639517
+      hauntedhouse_B_light_32: 2959640899792624032
+      hauntedhouse_B_light_33: -3403940871564161440
+      hauntedhouse_B_light_34: -8285902585922725991
+      hauntedhouse_B_light_35: 6694807191102662813
+      hauntedhouse_B_light_36: 5816647949683279135
+      hauntedhouse_B_light_37: -2282106555858334092
+      hauntedhouse_B_light_38: 3132208463481464816
+      hauntedhouse_B_light_39: 7355437264612155534
+      hauntedhouse_B_light_4: 7982329196062562163
+      hauntedhouse_B_light_40: 8493946956441033378
+      hauntedhouse_B_light_41: -5151538648417473499
+      hauntedhouse_B_light_42: -4676247911125012284
+      hauntedhouse_B_light_43: 4052057481873782585
+      hauntedhouse_B_light_44: 6781384808791114316
+      hauntedhouse_B_light_45: -913742409303488817
+      hauntedhouse_B_light_46: -2115247680423294580
+      hauntedhouse_B_light_47: 3758818861569690104
+      hauntedhouse_B_light_48: -7731233417336305066
+      hauntedhouse_B_light_49: 6331063240040594146
+      hauntedhouse_B_light_5: -3133781550525686790
+      hauntedhouse_B_light_50: 44208047595729749
+      hauntedhouse_B_light_51: 5778464574085159155
+      hauntedhouse_B_light_52: 8632208082806845229
+      hauntedhouse_B_light_53: -2588674773505225091
+      hauntedhouse_B_light_54: 4609590639627821436
+      hauntedhouse_B_light_55: -6492219002210062938
+      hauntedhouse_B_light_56: -6318905918542799030
+      hauntedhouse_B_light_57: 5979636548580004455
+      hauntedhouse_B_light_58: -7766583195971068765
+      hauntedhouse_B_light_59: 9157431505309969742
+      hauntedhouse_B_light_6: -3497842389877245637
+      hauntedhouse_B_light_7: 4393513075977647540
+      hauntedhouse_B_light_8: -5022559964509998487
+      hauntedhouse_B_light_9: -2459480177603202519
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

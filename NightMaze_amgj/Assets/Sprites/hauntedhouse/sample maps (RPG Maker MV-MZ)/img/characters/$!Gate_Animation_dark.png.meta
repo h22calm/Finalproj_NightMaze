@@ -309,7 +309,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      $!Gate_Animation_dark_0: -4371838034914377713
+      $!Gate_Animation_dark_1: 6815106940740808996
+      $!Gate_Animation_dark_2: 6665047676836961486
+      $!Gate_Animation_dark_3: -5752101415184197049
+      $!Gate_Animation_dark_4: 8197901696622500328
+      $!Gate_Animation_dark_5: 6365110879566255108
+      $!Gate_Animation_dark_6: 8297583482568507089
+      $!Gate_Animation_dark_7: 458880996696965193
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      $!curtains_destroyed_dark_0: 3212128271535378114
+      $!curtains_destroyed_dark_1: 4743509118232737260
+      $!curtains_destroyed_dark_2: 6123870511736363576
+      $!curtains_destroyed_dark_3: -8605487307266353816
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      $!sliding_bookshelf_door_dark_0: -9143936200722989161
+      $!sliding_bookshelf_door_dark_1: 6031932025457862410
+      $!sliding_bookshelf_door_dark_2: 1629005488619874894
+      $!sliding_bookshelf_door_dark_3: -1855924068345791393
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

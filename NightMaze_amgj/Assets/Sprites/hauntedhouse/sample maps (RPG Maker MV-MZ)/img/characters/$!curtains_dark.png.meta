@@ -409,7 +409,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      $!curtains_dark_0: -8524910285338984320
+      $!curtains_dark_1: 4024851450989386543
+      $!curtains_dark_10: -1378489118640228076
+      $!curtains_dark_11: 4265215512997119398
+      $!curtains_dark_2: -7830614862897178619
+      $!curtains_dark_3: -4824260450156308534
+      $!curtains_dark_4: -6810900990882674938
+      $!curtains_dark_5: -7506423766760927845
+      $!curtains_dark_6: -244531916018094986
+      $!curtains_dark_7: -5229305713923720658
+      $!curtains_dark_8: -7769243208667113892
+      $!curtains_dark_9: 523522800602247685
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -384,7 +384,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      $!curtains_destroyed_dark_0: 3212128271535378114
+      $!curtains_destroyed_dark_1: 4743509118232737260
+      $!curtains_destroyed_dark_10: 8793946639554866063
+      $!curtains_destroyed_dark_2: 6123870511736363576
+      $!curtains_destroyed_dark_3: -8605487307266353816
+      $!curtains_destroyed_dark_4: 7288860185753055078
+      $!curtains_destroyed_dark_5: 49098693023006378
+      $!curtains_destroyed_dark_6: -3687938302914054760
+      $!curtains_destroyed_dark_7: 6060332831581569217
+      $!curtains_destroyed_dark_8: 7073843582547649773
+      $!curtains_destroyed_dark_9: -6185308909743722474
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

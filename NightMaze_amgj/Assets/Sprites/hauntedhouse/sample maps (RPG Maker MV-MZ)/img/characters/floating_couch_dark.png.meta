@@ -459,7 +459,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      floating_couch_dark_0: -3262118092512677046
+      floating_couch_dark_1: 3135264845269617796
+      floating_couch_dark_10: -193759770952027379
+      floating_couch_dark_11: 1408740017925110123
+      floating_couch_dark_12: -4239245946040511964
+      floating_couch_dark_13: -5833251237626162401
+      floating_couch_dark_2: -233772038553722105
+      floating_couch_dark_3: -697806816241155320
+      floating_couch_dark_4: 3223200464329478420
+      floating_couch_dark_5: 306204416414179525
+      floating_couch_dark_6: -4762925110755317955
+      floating_couch_dark_7: 1154630535926986435
+      floating_couch_dark_8: -5328360548104960872
+      floating_couch_dark_9: -871652255561297588
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

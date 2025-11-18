@@ -284,7 +284,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '!$Treasure_Chest_Animations_Front_Back_light_0': 5355014355557245770
+      '!$Treasure_Chest_Animations_Front_Back_light_1': 4339854165330997361
+      '!$Treasure_Chest_Animations_Front_Back_light_2': 2094969936940021241
+      '!$Treasure_Chest_Animations_Front_Back_light_3': 1037998710183490881
+      '!$Treasure_Chest_Animations_Front_Back_light_4': 8057412892513049387
+      '!$Treasure_Chest_Animations_Front_Back_light_5': 2005524257221027632
+      '!$Treasure_Chest_Animations_Front_Back_light_6': 4351988186883760131
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

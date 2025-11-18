@@ -409,7 +409,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      non-rm-a3-light_0: -216510003173952721
+      non-rm-a3-light_1: -5551074776545912433
+      non-rm-a3-light_10: 1169307948284561019
+      non-rm-a3-light_11: 1347967441900963505
+      non-rm-a3-light_2: 2244462041196733987
+      non-rm-a3-light_3: -2890496627286948519
+      non-rm-a3-light_4: -5357716848114372665
+      non-rm-a3-light_5: -2962942618111325212
+      non-rm-a3-light_6: -6705983521889531356
+      non-rm-a3-light_7: 4523288291617453479
+      non-rm-a3-light_8: -8997446198954540813
+      non-rm-a3-light_9: -5595599809394399
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

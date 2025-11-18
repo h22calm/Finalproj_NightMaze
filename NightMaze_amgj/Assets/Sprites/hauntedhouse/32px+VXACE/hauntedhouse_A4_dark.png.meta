@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hauntedhouse_A4_dark_0: -5131618118038178995
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

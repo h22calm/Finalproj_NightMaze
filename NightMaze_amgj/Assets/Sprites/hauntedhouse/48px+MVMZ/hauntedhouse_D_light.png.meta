@@ -834,7 +834,36 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hauntedhouse_D_light_0: 6415332996445272827
+      hauntedhouse_D_light_1: 3530828124876578568
+      hauntedhouse_D_light_10: -249425182045366366
+      hauntedhouse_D_light_11: -3694721122936441850
+      hauntedhouse_D_light_12: 2413054147721438816
+      hauntedhouse_D_light_13: 167498787184632145
+      hauntedhouse_D_light_14: -3689507539113238762
+      hauntedhouse_D_light_15: -7596668885112760473
+      hauntedhouse_D_light_16: -4535185576078982920
+      hauntedhouse_D_light_17: -8954737031454016293
+      hauntedhouse_D_light_18: -4739615027892027274
+      hauntedhouse_D_light_19: -836339820351890275
+      hauntedhouse_D_light_2: -1111204191501571960
+      hauntedhouse_D_light_20: 8696646018617637716
+      hauntedhouse_D_light_21: 4967824586623948658
+      hauntedhouse_D_light_22: 7643366481265330341
+      hauntedhouse_D_light_23: -7235156807529006171
+      hauntedhouse_D_light_24: 3460582467145591835
+      hauntedhouse_D_light_25: 7849038021524815280
+      hauntedhouse_D_light_26: -277724673758167591
+      hauntedhouse_D_light_27: -5965133123570408335
+      hauntedhouse_D_light_28: 1229116213627578773
+      hauntedhouse_D_light_3: -8594945636962317543
+      hauntedhouse_D_light_4: 3284894695941908655
+      hauntedhouse_D_light_5: 1644115277740071991
+      hauntedhouse_D_light_6: 8147117302804930758
+      hauntedhouse_D_light_7: 985004491251731434
+      hauntedhouse_D_light_8: 2824516715154538291
+      hauntedhouse_D_light_9: -6747420275551997921
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -409,7 +409,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '!$rat_black_0': -8167131572604467781
+      '!$rat_black_1': -9119746012186046113
+      '!$rat_black_10': 2983832688895624414
+      '!$rat_black_11': 1279556160391499301
+      '!$rat_black_2': -8182375706799032830
+      '!$rat_black_3': -1358145853697394286
+      '!$rat_black_4': -230157236102871181
+      '!$rat_black_5': -3495830927769490742
+      '!$rat_black_6': -7485426934342451240
+      '!$rat_black_7': -623499898330200897
+      '!$rat_black_8': 5701446594742009735
+      '!$rat_black_9': -639399191019937362
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

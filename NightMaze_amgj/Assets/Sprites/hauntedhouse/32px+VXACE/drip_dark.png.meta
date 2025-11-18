@@ -559,7 +559,25 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      drip_dark_0: 5245280798758183454
+      drip_dark_1: -81133023770384128
+      drip_dark_10: -6055736827398377157
+      drip_dark_11: -8302728180414035031
+      drip_dark_12: -2734482967465995320
+      drip_dark_13: 7505541157237324876
+      drip_dark_14: -1832822235751051419
+      drip_dark_15: -6134421040366521595
+      drip_dark_16: 9095730528887549402
+      drip_dark_17: -6734683366051011365
+      drip_dark_2: 5247458550772422579
+      drip_dark_3: 78573444332350078
+      drip_dark_4: -4461678502107557415
+      drip_dark_5: 439385567306973140
+      drip_dark_6: 366557040876496179
+      drip_dark_7: 8731996323329895565
+      drip_dark_8: 3847068953241994886
+      drip_dark_9: -6586636024295044892
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

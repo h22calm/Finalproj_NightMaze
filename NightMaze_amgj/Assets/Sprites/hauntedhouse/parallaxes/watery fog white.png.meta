@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      watery fog white_0: -2540050264862646623
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

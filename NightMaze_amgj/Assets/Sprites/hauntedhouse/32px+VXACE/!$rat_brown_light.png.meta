@@ -409,7 +409,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '!$rat_brown_light_0': -7550565010210746229
+      '!$rat_brown_light_1': -3311871551649626686
+      '!$rat_brown_light_10': 4579133500721924525
+      '!$rat_brown_light_11': -3058858700985036037
+      '!$rat_brown_light_2': 5639107548304411074
+      '!$rat_brown_light_3': -8789495502799130323
+      '!$rat_brown_light_4': -3018551454915514657
+      '!$rat_brown_light_5': -626462190948527792
+      '!$rat_brown_light_6': 2546391712999613818
+      '!$rat_brown_light_7': 1125303477099216723
+      '!$rat_brown_light_8': -4164508389512122566
+      '!$rat_brown_light_9': -1914451024116321579
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

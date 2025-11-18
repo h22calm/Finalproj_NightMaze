@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      wispy white clouds_0: -2134549004294003883
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

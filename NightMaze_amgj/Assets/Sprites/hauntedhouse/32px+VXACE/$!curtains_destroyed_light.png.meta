@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      $!curtains_destroyed_light_0: 1760743926099160734
+      $!curtains_destroyed_light_1: 7402362203860680702
+      $!curtains_destroyed_light_2: 3095579973280758223
+      $!curtains_destroyed_light_3: -8009793673322305728
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

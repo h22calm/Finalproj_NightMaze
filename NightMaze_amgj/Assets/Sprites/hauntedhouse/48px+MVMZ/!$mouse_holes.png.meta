@@ -409,7 +409,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '!$mouse_holes_0': 7297544489107703150
+      '!$mouse_holes_1': 8531205926368238792
+      '!$mouse_holes_10': 4079983942936324935
+      '!$mouse_holes_11': 8543446019052925214
+      '!$mouse_holes_2': -7906574640550672087
+      '!$mouse_holes_3': -2736740385318153190
+      '!$mouse_holes_4': -3369939966366999313
+      '!$mouse_holes_5': -1914868464051171360
+      '!$mouse_holes_6': -8499264719945312964
+      '!$mouse_holes_7': 3687852035095650597
+      '!$mouse_holes_8': 5285822434333446720
+      '!$mouse_holes_9': -9091359554799039508
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

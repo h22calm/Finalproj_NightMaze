@@ -409,7 +409,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      $!curtains_light_0: 7264753683397801425
+      $!curtains_light_1: -1482405850076466470
+      $!curtains_light_10: -624159311851538826
+      $!curtains_light_11: -5043353134239232920
+      $!curtains_light_2: 8160901167949116343
+      $!curtains_light_3: -6009360648726371115
+      $!curtains_light_4: 3708836233470277985
+      $!curtains_light_5: 7834562840741494566
+      $!curtains_light_6: -3674507595070887375
+      $!curtains_light_7: -5628793019418309535
+      $!curtains_light_8: -7444444613465243585
+      $!curtains_light_9: -2593649642025177555
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

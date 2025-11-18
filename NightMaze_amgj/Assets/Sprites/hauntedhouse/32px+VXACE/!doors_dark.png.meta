@@ -259,7 +259,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '!doors_dark_0': -7971183659125345626
+      '!doors_dark_1': -1820708310226762801
+      '!doors_dark_2': 2285684928563827473
+      '!doors_dark_3': -2207511134892493647
+      '!doors_dark_4': 3940855821450470281
+      '!doors_dark_5': 5863842292077954824
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

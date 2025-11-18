@@ -409,7 +409,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      $lightning_window_dark_0: -2495010750587296276
+      $lightning_window_dark_1: 5007621714394976630
+      $lightning_window_dark_10: 2258404863236044320
+      $lightning_window_dark_11: 201689655260755424
+      $lightning_window_dark_2: -5985799705948240708
+      $lightning_window_dark_3: -6913087176859931718
+      $lightning_window_dark_4: 5138506135210453504
+      $lightning_window_dark_5: 1561903058104209606
+      $lightning_window_dark_6: 8990496508552701568
+      $lightning_window_dark_7: 7960527512338720559
+      $lightning_window_dark_8: 16621546832704320
+      $lightning_window_dark_9: 3719054328059659263
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

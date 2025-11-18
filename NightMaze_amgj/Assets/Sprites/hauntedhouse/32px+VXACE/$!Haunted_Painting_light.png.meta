@@ -409,7 +409,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      $!Haunted_Painting_light_0: -4033308183777961163
+      $!Haunted_Painting_light_1: -6233819245424239869
+      $!Haunted_Painting_light_10: -1000067838740209693
+      $!Haunted_Painting_light_11: 5034866513226686541
+      $!Haunted_Painting_light_2: 960619387634868861
+      $!Haunted_Painting_light_3: -3759994019637729056
+      $!Haunted_Painting_light_4: -7230563568645291978
+      $!Haunted_Painting_light_5: -8160454497874243311
+      $!Haunted_Painting_light_6: -540110318214927910
+      $!Haunted_Painting_light_7: 8853560143930418751
+      $!Haunted_Painting_light_8: -86603807703236403
+      $!Haunted_Painting_light_9: -4412319158427572261
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

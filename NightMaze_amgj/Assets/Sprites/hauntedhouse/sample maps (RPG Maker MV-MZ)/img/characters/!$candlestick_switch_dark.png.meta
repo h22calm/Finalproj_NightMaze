@@ -184,7 +184,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      '!$candlestick_switch_dark_0': -1278027854178945122
+      '!$candlestick_switch_dark_1': -2877823441264099340
+      '!$candlestick_switch_dark_2': -7438937411167713226
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
